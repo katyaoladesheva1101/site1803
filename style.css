@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+nav{
+   text-align: center;
+   font-size: 25px;
+   
+
+}
+nav,a{
+    border-bottom: 3px solid black;
+    padding-right: 35px;
+}
+h1{
+    text-align: center;
+}
+img{
+    margin: 20px;
+    border-left:10px dotted black;
+    
+}
+img ,header{
+    border:none;
+}
+p{
+    border:4px solid black;
+    border-radius: 10px;
+    padding:10px;
+    margin: 10px;
+}
+footer{
+    background-color: black;
+    padding:10px;
+
+}
+.text{
+    border:none;
+    background-color: white;
+    padding:2px;
+}
